@@ -3,12 +3,12 @@
 ---
 
 ```markdown
-# 🎬 Sentiment Analysis on IMDB Reviews  
+#  Sentiment Analysis on IMDB Reviews  
 *A symphony of code and emotion*
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 This project unveils a machine learning model that deciphers the emotional tone behind movie reviews from the IMDB dataset. Whether a film evoked tears of joy or sighs of regret, our model listens to every word, learns from sentiment, and predicts with poetic precision.
 
@@ -16,7 +16,7 @@ Using the **Naive Bayes** algorithm and **TF-IDF vectorization**, we transform r
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 
@@ -38,23 +38,23 @@ sentiment-analysis-imdb/
 
 ---
 
-## 🧠 Features
+##  Features
 
-- 📚 Preprocessing: Cleans text using regex, lowercasing, and NLTK stopwords  
-- 🧮 Vectorization: Applies TF-IDF to transform text to numeric form  
-- 🧪 Model Training: Trains a Naive Bayes classifier using scikit-learn  
-- 📊 Evaluation: Displays accuracy and classification metrics  
-- 🧾 Custom Testing: Analyze your own movie review and predict its sentiment
+-  Preprocessing: Cleans text using regex, lowercasing, and NLTK stopwords  
+-  Vectorization: Applies TF-IDF to transform text to numeric form  
+-  Model Training: Trains a Naive Bayes classifier using scikit-learn  
+-  Evaluation: Displays accuracy and classification metrics  
+-  Custom Testing: Analyze your own movie review and predict its sentiment
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 Ensure you have Python 3.7+ installed.
 
-### 📥 Installation
+###  Installation
 
 Clone the repository:
 
@@ -69,7 +69,7 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-### 📂 Prepare the Dataset
+###  Prepare the Dataset
 
 Download the IMDB dataset from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 Place the CSV file in the same directory as `sentiment_analysis.py` and rename it to:
@@ -80,7 +80,7 @@ IMDB Dataset.csv
 
 ---
 
-## 🧪 Run the Project
+##  Run the Project
 
 ```bash
 python sentiment_analysis.py
@@ -95,7 +95,7 @@ The script will:
 
 ---
 
-## 📌 Example Output
+##  Example Output
 
 ```
 Accuracy: 0.87
@@ -108,7 +108,7 @@ Predicted Sentiment: Positive
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python 3
 * Pandas & NumPy
@@ -117,7 +117,7 @@ Predicted Sentiment: Positive
 
 ---
 
-## 🧾 requirements.txt
+##  requirements.txt
 
 ```txt
 pandas
@@ -134,22 +134,22 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * [IMDB Movie Review Dataset – Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 * The Python and ML community for open libraries and knowledge
 
 ---
 
-## ✨ Author
+##  Author
 
-**Sabarivasan** – Feel free to ⭐ star the repo and contribute!
+**Sabarivasan** – Feel free to  star the repo and contribute!
 
 ---
 
