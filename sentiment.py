@@ -13,7 +13,7 @@ nltk.download('stopwords')
 
 
 # LOADING DATASET
-df = pd.read_csv('IMDB Dataset.csv',encoding = 'utf-8',on_bad_lines='skip')
+df = pd.read_csv(#'IMDB Dataset.csv'#,  encoding = 'utf-8',on_bad_lines='skip')#add your data set file loction or data set file name#
 
 #MAPPING SENTIMENT VALUES
 df['sentiment'] = df['sentiment'].map({'positive':1,'negative':0})
